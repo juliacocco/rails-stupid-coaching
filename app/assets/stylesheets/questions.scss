@@ -5,7 +5,9 @@ h1 {
   font-size: 50px;
   margin:20px;
 }
-
+.asking {
+   margin:20px;
+}
 .answer_contianer{
   background-color: #FFFFE0;
   font-size:25px;
@@ -37,6 +39,7 @@ h1 {
   width: 70%;
   background: white;
   border-radius: 5px;
+  margin: 0 0 0 20px ;
 }
 
 .btn {
@@ -44,4 +47,4 @@ h1 {
   font-size: 32px;
   color: white;
   border-radius: 5px;
-}
+  }
